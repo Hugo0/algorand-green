@@ -5,4 +5,8 @@ The main thesis of this proposal is that Algorand should utilize it's USP's (uni
 
 Key points include insights on the gaps left by Toucan and KlimaDAO, how to source applicants, and what the budget for GREEN would look like.
 
+Slides can be found at '/Algorand Green Accelerator.pdf'
+
+Video can be found at: https://tella.video/algorand-green-accelerator-8mhj
+
 happy to answer any comments at algorand@hugomontenegro.com
