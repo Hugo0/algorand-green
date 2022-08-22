@@ -9,4 +9,4 @@ Slides can be found at '/Algorand Green Accelerator.pdf'
 
 Video can be found at: https://tella.video/algorand-green-accelerator-8mhj
 
-happy to answer any comments at algorand@hugomontenegro.com
+_happy to answer any comments at algorand@hugomontenegro.com_
